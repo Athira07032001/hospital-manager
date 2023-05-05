@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital@1&display=swap');
+.hi{
+   
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 400px;
+  height: 350px;
+  background-color:rgba(248, 253, 255, 0.893);
+  border-radius: 0px;
+  text-emphasis-color: black;
+  box-shadow: 100px;
+  text-decoration-style: none ;
+  
+  color: rgb(245, 241, 236);
+  border-bottom: 1px solid rgb(9, 7, 7);
+  text-align: center;
+padding: 0 0 20px 0;
+box-shadow: 2px 3px 3px 2px;
+   box-shadow: 6px  6px 6px black;
+   border-radius: 50px 50px  50px 50px;
+
+
+  
+
+
+ 
+
+   
+  
+}
+.txt_field{
+ font-family: 'Rubik', sans-serif;
+    width: 70px;
+
+    height: 60px;
+    margin-left: 70px;
+    color: black;
+    margin-bottom: 30px;
+
+
+}
+.bee{
+  width: 100%;
+    
+}
+.qq{
+
+  color: black;
+  margin-left: 180px;
+}
